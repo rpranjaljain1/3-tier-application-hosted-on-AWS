@@ -7,6 +7,7 @@ Architecture Diagram
 CloudScale 3-Tier Architecture on AWS
 This project demonstrates the deployment of a scalable and highly available 3-tier architecture on AWS, leveraging various AWS services like EC2, ALB, CloudFront, RDS, Auto Scaling Groups, and more. The architecture is designed to ensure availability, security, and performance across multiple availability zones.
 
+
 Project Architecture Overview
 Web Tier: Includes EC2 instances running behind an external Application Load Balancer (ALB) for distributing incoming traffic. CloudFront is used as a CDN for improved performance and security.
 
